@@ -1,0 +1,70 @@
+.warna1{
+    background-color: #876445;
+}
+
+.warna2{
+    background-color: #ca965c;
+}
+
+.warna3{
+    background-color: #eec373;
+}
+
+.warna4{
+    background-color: #f4dfba;
+}
+
+.banner{
+    height: 80hv;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../image/banner.jpg);
+}
+
+.highlighted-kategori{
+    border: solid;
+    height: 250px;
+}
+
+.kategori-baju-pria{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(image\Baju.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-baju-wanita{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../image/baju-wanita.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.kategori-baju-wanita{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(../image/sepatu.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.no-decoration {
+    text-decoration:none ;
+    color: azure;
+}
+
+.no-decoration{
+    color: #eec373;
+}
+
+.text-harga{
+    font-size: 20px;
+    color: #ca965c;
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+

@@ -1,0 +1,12 @@
+file css
+.banner-roduk{
+salin dari .banner
+height diganti 45
+tambahkan kode
+background-position: 50% 35%;
+}
+.list-group  a{
+text-decoration: none;
+}
+
+<? php di body tambah  require "navbar.php" dan require "koneksi. php";
